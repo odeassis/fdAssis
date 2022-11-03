@@ -38,8 +38,9 @@ Studying Computer Science, I have improved my knowledge focusing on Web developm
 ## social && contact
 <p align="justify">
 <a href="https://www.linkedin.com/in/frandeassis/"><img src="https://img.shields.io/badge/linkedin-%230d1117.svg?style=for-the-badge&logo=linkedin&logoColor=0077B5"/></a
-<a href="mailto:franciscodeasssic.santos@gmail.com"><img src="https://img.shields.io/badge/gmail-%230d1117.svg?style=for-the-badge&logo=gmail&logoColor=#EA4335"/></a>
+<a href="mailto:franciscodeassisc.santos@gmail.com"><img src="https://img.shields.io/badge/gmail-%230d1117.svg?style=for-the-badge&logo=gmail&logoColor=#EA4335"/> </a>
 <a href="https://t.me/franc_deassis"><img src="https://img.shields.io/badge/Telegram-%230d1117?style=for-the-badge&logo=telegram&logoColor=#E4405F"/></a>
+  <a href="https://drive.google.com/file/d/1ClhHWbRG90Fa2nHR4fUmJjlFjYpMatM6/view?usp=sharing"><img src="https://img.shields.io/badge/CV-%230d1117?style=for-the-badge&logo=LibreOffice&logoColor=#E4405F"/></a>
 </p>
 
 [![@d_assis's Holopin board](https://holopin.me/d_assis)](https://holopin.io/@d_assis)

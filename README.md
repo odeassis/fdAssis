@@ -1,4 +1,4 @@
-\<HelloWord> I'm Francisco de Assis 👋 \</HelloWord>
+\<HelloWord> Hi!, I'm Francisco de Assis 👋 \</HelloWord>
 
 ## about.me
 <p align="justify">

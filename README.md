@@ -2,7 +2,7 @@
 
 ## about.me
 <p align="justify">
-Studying Computer Science, I have improved my knowledge focusing on Web development, studying Javascript, unit and integration tests, ReactJS, and NodeJS with Express, PostgreSQL, and Agile Methodologies.
+Bachelor in Computer Science, I have improved my knowledge focusing on Web development, studying Javascript, unit and integration tests, ReactJS, and NodeJS with Express, PostgreSQL, and Agile Methodologies.
 </p>
 
 ## techs && skills
